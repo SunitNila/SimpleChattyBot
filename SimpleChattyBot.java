@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//import java.util.Formatter;
 
 public class SimpleChattyBot {
     final static Scanner scanner = new Scanner(System.in); // Do not change this line
